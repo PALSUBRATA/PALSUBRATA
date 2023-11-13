@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palsubrata" alt="palsubrata" /></a> </p>
 
-- 🔭 I’m currently working on **Android,Java**
+- 🔭 I’m currently working on **Test Engineer**
 
-- 🌱 I’m currently learning **Angular Js,.NET**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **anything, I'll be happy to help.**
 
